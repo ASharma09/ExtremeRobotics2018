@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
 /**
- * Created by femukund on 10/22/2017.
+ * Created by femukund on 10/22/2017..
  */
 
 public class Robot
