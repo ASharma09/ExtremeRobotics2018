@@ -103,16 +103,11 @@ public class ExtremeBotDrive extends LinearOpMode
         speedAM = Range.clip(speedAM, -1, 1);
         if (gamepad2.right_bumper)
         {
-            speedAM = 0.5;
+            speedAM = 1;
         }
         if (gamepad2.left_bumper)
         {
-            speedAM = -0.5
-
-
-
-
-            ;
+            speedAM = -1;
         }
         robot.armMotor.setPower(speedAM);
         telemetry.addData("speedArmMotor", speedAM);

@@ -33,9 +33,9 @@ public class Robot
 
     // Arm motors & servos
     DcMotor armMotor;
-    Servo frontArmServo;
-    Servo backArmServo;
-    Servo sweepServo;
+    //Servo frontArmServo;
+    //Servo backArmServo;
+    //Servo sweepServo;
 
     // Lift & Land motor
     DcMotor liftMotor;
