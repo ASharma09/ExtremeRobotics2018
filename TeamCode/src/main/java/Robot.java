@@ -37,7 +37,7 @@ public class Robot
     //Servo backArmServo;
     //Servo sweepServo;
 
-    // Lift & Land motor
+    // Lift & Land motor.
     DcMotor liftMotor;
 
     public void init(HardwareMap ProtohwMap, LinearOpMode linearOpMode)
