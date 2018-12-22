@@ -20,7 +20,7 @@ import java.util.List;
 public class ExtremeBotAutoCrater extends LinearOpMode
 {
     private Robot robot = new Robot();
-
+//hi
     private static final String TFOD_MODEL_ASSET = "RoverRuckus.tflite";
     private static final String LABEL_GOLD_MINERAL = "Gold Mineral";
     private static final String LABEL_SILVER_MINERAL = "Silver Mineral";
